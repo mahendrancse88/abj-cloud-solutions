@@ -45,6 +45,8 @@ php artisan dusk
 <img src="./asset-output/home.png">
 <img src="./asset-output/login.png">
 <img src="./asset-output/register.png">
+<img src="./asset-output/looged.png">
+<img src="./asset-output/developer.png">
 
 ## Changelog
 
