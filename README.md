@@ -44,11 +44,26 @@ php artisan dusk
 
 # Home Page
 <img src="./asset-output/home.png">
+
+# Login Page
 <img src="./asset-output/login.png">
+
+# Register Page
 <img src="./asset-output/register.png">
+
+# Forgot Password Page
+<img src="./asset-output/forget-password.png">
+
+# logged in Page
 <img src="./asset-output/looged.png">
+
+# developer lists Page
 <img src="./asset-output/developer.png">
+
+# add developer  Page
 <img src="./asset-output/add-developer.png">
+
+# multiple records deletion
 <img src="./asset-output/multiple-delete.png">
 
 
