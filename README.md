@@ -1,5 +1,5 @@
-# POSable 
- A POSable starter kit.
+# abj cloud solutions 
+ A abj-cloud-solutions starter kit.
 
 
 ## Installation
@@ -10,7 +10,7 @@
 - (When installed via git clone or download, run `php artisan key:generate` and `php artisan jwt:secret`)
 - `php artisan migrate`
 - `npm install`
-- `php artisan migrate`
+- `php artisan serve`
 
 ## Usage
 
