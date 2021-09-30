@@ -40,6 +40,12 @@ vendor/bin/phpunit
 php artisan dusk
 ```
 
+#### OUTPUT ON Browser
+
+<img src="./asset-output/home.png">
+<img src="./asset-output/login.png">
+<img src="./asset-output/register.png">
+
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
