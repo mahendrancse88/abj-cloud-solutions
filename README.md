@@ -41,9 +41,8 @@ php artisan dusk
 ```
 
 #### OUTPUT ON Browser
-``bash
-Home page
-``
+
+# Home Page
 <img src="./asset-output/home.png">
 <img src="./asset-output/login.png">
 <img src="./asset-output/register.png">
